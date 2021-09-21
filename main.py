@@ -1196,4 +1196,4 @@ async def level_up(users, user, message):
 				except:
 					pass
     
-client.run("NjkxNjM2NTk3NDM5MDcwMjY4.Xni2xg.FI--Yx6LZAiUl4vjrxKiXclQUNQ")
+client.run("")
